@@ -1,0 +1,26 @@
+[
+  {
+    "id": "en-ru",
+    "name": "Англ-Русс",
+    "sets": [
+      {
+        "name": "Знакомство",
+        "value": "acquaintance"
+      },
+      {
+        "name": "Путешествия",
+        "value": "journey"
+      }
+    ]
+  },
+  {
+    "id": "ru-en",
+    "name": "Русс-Англ",
+    "sets": [
+      {
+        "name": "Приветствие",
+        "value": "greetings"
+      }
+    ]
+  }
+]
