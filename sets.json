@@ -1,22 +1,19 @@
 [
   {
-    "id": "en-en",
-    "name": "Англ-Англ",
+    "id": "en-en", "name": "Англ-Англ",
     "sets": [
       {"name": "Неправ. глаг.", "value": "irregular"}
     ]
   },
   {
-    "id": "en-ru",
-    "name": "Англ-Русс",
+    "id": "en-ru", "name": "Англ-Русс",
     "sets": [
       {"name": "Знакомство", "value": "acquaintance"},
       {"name": "Путешествия", "value": "journey"}
     ]
   },
   {
-    "id": "ru-en",
-    "name": "Русс-Англ",
+    "id": "ru-en", "name": "Русс-Англ",
     "sets": [
       {"name": "Приветствие", "value": "greetings"}
     ]
