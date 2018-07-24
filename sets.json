@@ -2,20 +2,22 @@
   {
     "id": "en-en", "name": "Англ-Англ",
     "sets": [
+      {"name": "Неправ. глаг. (поп.)", "value": "irregular-popular"},
       {"name": "Неправ. глаг.", "value": "irregular"}
     ]
   },
   {
     "id": "en-ru", "name": "Англ-Русс",
     "sets": [
+      {"name": "Беседа", "value": "conversation"},
       {"name": "Знакомство", "value": "acquaintance"},
-      {"name": "Путешествия", "value": "journey"}
+      {"name": "Отель", "value": "Hotel"}
     ]
   },
   {
-    "id": "ru-en", "name": "Русс-Англ",
+    "id": "fr-ru", "name": "Фран-Русс",
     "sets": [
-      {"name": "Приветствие", "value": "greetings"}
+      {"name": "Беседа", "value": "conversation"}
     ]
   }
 ]
