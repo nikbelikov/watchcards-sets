@@ -2,8 +2,8 @@
   {
     "id": "en-en", "name": "Англ-Англ",
     "sets": [
-      {"name": "Неправ. глаг. (поп.)", "value": "irregular-popular"},
-      {"name": "Неправ. глаг.", "value": "irregular"}
+      {"name": "Неп. глаг. (попул.)", "value": "irregular-popular"},
+      {"name": "Неп. глаг.", "value": "irregular"}
     ]
   },
   {
@@ -11,7 +11,7 @@
     "sets": [
       {"name": "Беседа", "value": "conversation"},
       {"name": "Знакомство", "value": "acquaintance"},
-      {"name": "Отель", "value": "Hotel"}
+      {"name": "Отель", "value": "hotel"}
     ]
   },
   {
