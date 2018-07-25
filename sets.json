@@ -11,7 +11,8 @@
     "sets": [
       {"name": "Беседа", "value": "conversation"},
       {"name": "Знакомство", "value": "acquaintance"},
-      {"name": "Отель", "value": "hotel"}
+      {"name": "Отель", "value": "hotel"},
+      {"name": "Ресторан", "value": "restaurant"}
     ]
   },
   {
